@@ -1,0 +1,100 @@
+ {
+  "cards": [
+    {
+      "title": "CLOCKS",
+      "date": "18 Oct 2020",
+      "views": "9,906",
+      "image": "photo1.jpg"
+    },
+    {
+      "title": "PLANTS",
+      "date": "14 Oct 2020",
+      "views": "16,100",
+      "image": "photo2.jpg"
+    },
+    {
+      "title": "MORNING",
+      "date": "12 Oct 2020",
+      "views": "12,460",
+      "image": "photo3.jpg"
+    },
+    {
+      "title": "PINKY",
+      "date": "10 Oct 2020",
+      "views": "11,402",
+      "image": "photo4.jpg"
+    },
+    {
+      "title": "HANGERS",
+      "date": "24 Sep 2020",
+      "views": "16,008",
+      "image": "photo5.jpg"
+    },
+    {
+      "title": "PERFUMES",
+      "date": "20 Sep 2020",
+      "views": "12,860",
+      "image": "photo6.jpg"
+    },
+    {
+      "title": "BUS",
+      "date": "16 Sep 2020",
+      "views": "10,900",
+      "image": "photo7.jpg"
+    },
+    {
+      "title": "NEW-YORK",
+      "date": "12 Sep 2020",
+      "views": "11,300",
+      "image": "photo8.jpg"
+    },
+    {
+      "title": "ABSTRACT",
+      "date": "10 Sep 2020",
+      "views": "42,700",
+      "image": "photo9.jpg"
+    },
+    {
+      "title": "FLOWERS",
+      "date": "8 Sep 2020",
+      "views": "11,402",
+      "image": "photo10.jpg"
+    },
+    {
+      "title": "ROSY",
+      "date": "4 Sep 2020",
+      "views": "32,906",
+      "image": "photo11.jpg"
+    },
+    {
+      "title": "ROCKI",
+      "date": "28 Aug 2020",
+      "views": "50,700",
+      "image": "photo12.jpg"
+    },
+    {
+      "title": "PURPLE",
+      "date": "22 Aug 2020",
+      "views": "107,510",
+      "image": "photo13.jpg"
+    },
+    {
+      "title": "SEA",
+      "date": "14 Aug 2020",
+      "views": "118,006",
+      "image": "photo14.jpg"
+    },
+    {
+      "title": "TURTLE",
+      "date": "9 Aug 2020",
+      "views": "121,300",
+      "image": "photo15.jpg"
+    },
+    {
+      "title": "PEACE",
+      "date": "3 Aug 2020",
+      "views": "21,204",
+      "image": "photo16.jpg"
+    }
+  ]
+}

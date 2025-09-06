@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: url(assets/header.jpg) center/cover no-repeat;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero .form-control {
+  max-width: 400px;
+}
+
+.text-teal {
+  color: #009999;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.site-footer {
+  background-color: #f9f9f9;
+  padding: 60px 0 30px;
+  color: #666;
+  font-size: 15px;
+}
+
+.site-footer .footer-title {
+  font-weight: 600;
+  color: #009999;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.site-footer .footer-text {
+  line-height: 1.8;
+}
+
+.site-footer .footer-links li {
+  margin-bottom: 10px;
+}
+
+.site-footer .footer-links a {
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.site-footer .footer-links a:hover {
+  color: #009999;
+}
+
+.site-footer .footer-bottom {
+  margin-top: 40px;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+  font-size: 14px;
+  color: #999;
+}
+
+.site-footer .footer-bottom a {
+  color: #009999;
+  text-decoration: none;
+}
+
+.navbar-brand {
+  color: #009999 !important;
+}
+
+.btn-primary {
+    background-color: #009999;
+    border-color: #009999;
+}
+
